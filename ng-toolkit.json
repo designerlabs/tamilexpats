@@ -1,0 +1,17 @@
+{
+  "universal": {
+    "skipInstall": false,
+    "directory": ".",
+    "project": "tamilexpats"
+  },
+  "serverless": {
+    "provider": "aws",
+    "skipInstall": false,
+    "directory": ".",
+    "project": "tamilexpats",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
